@@ -22,10 +22,9 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "noImplicitAny": true,
     "outDir": "./dist"
-  },
-  "include": [
-    "src"
-  ]
+  }
+//   "include": [
+//     "src"
+// , "tests/App.test.tsx", "tests/setupTests.ts"  ]
 }
