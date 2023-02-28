@@ -1,0 +1,17 @@
+.header {
+    display: block;
+    font-family: cursive;
+}
+
+.vertical-seperator {
+    display: inline-block;
+    font-size: 1.5 rem;
+}
+
+.inline-flex-container {
+    display: inline-flex;
+}
+
+/* .social-media-icon {
+    
+} */

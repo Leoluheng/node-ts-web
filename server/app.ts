@@ -1,7 +1,9 @@
 import express, {Express, Request, Response} from "express"
+
 const port = 5000
 
 const app = express()
+
 
 app.get("/hello", (req : Request, res : Response) => {
     res.json({"greetings": "Hello World!!!!"})
